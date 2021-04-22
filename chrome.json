@@ -1,0 +1,12 @@
+[
+    
+    //Opens up google.com in a single window
+    ["google.com", "instagram.com"]
+    
+    //Opnes Up Insta and W3 Schools in a new Window
+    /*["instagram.com",
+           "W3schools.com"
+]*/
+    
+    
+]
